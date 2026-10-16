@@ -1,0 +1,7 @@
+# 설교 정리 목록
+
+접수·정리 완료 순서대로 번호를 부여합니다. 설교별 폴더에 같은 내용의 옵시디언용 MD와 Apple 메모용 MD를 보관합니다. 설교일이 확인되지 않으면 일자미상으로 표시합니다.
+
+| 순번 | 설교 | 설교자 | 설교일 | 옵시디언용 | Apple 메모용 |
+| --- | --- | --- | --- | --- | --- |
+| 001 | [내 신앙에 기근이 찾아올 때](https://www.youtube.com/watch?v=8C3Ja28pf5U) | 최목사(성명 미확인) | 미상 | [MD](001_%EC%9D%BC%EC%9E%90%EB%AF%B8%EC%83%81_%EC%B5%9C%EB%AA%A9%EC%82%AC_%EB%82%B4%20%EC%8B%A0%EC%95%99%EC%97%90%20%EA%B8%B0%EA%B7%BC%EC%9D%B4%20%EC%B0%BE%EC%95%84%EC%98%AC%20%EB%95%8C/%EC%9D%BC%EC%9E%90%EB%AF%B8%EC%83%81_%EC%B5%9C%EB%AA%A9%EC%82%AC_%5B%EC%A1%B0%EA%B0%81%EB%A7%90%EC%94%80%5D%20%EB%82%B4%20%EC%8B%A0%EC%95%99%EC%97%90%20%EA%B8%B0%EA%B7%BC%EC%9D%B4%20%EC%B0%BE%EC%95%84%EC%98%AC%20%EB%95%8C_%EC%84%A4%EA%B5%90%EC%A0%95%EB%A6%AC.md) | [MD](001_%EC%9D%BC%EC%9E%90%EB%AF%B8%EC%83%81_%EC%B5%9C%EB%AA%A9%EC%82%AC_%EB%82%B4%20%EC%8B%A0%EC%95%99%EC%97%90%20%EA%B8%B0%EA%B7%BC%EC%9D%B4%20%EC%B0%BE%EC%95%84%EC%98%AC%20%EB%95%8C/%EC%9D%BC%EC%9E%90%EB%AF%B8%EC%83%81_%EC%B5%9C%EB%AA%A9%EC%82%AC_%5B%EC%A1%B0%EA%B0%81%EB%A7%90%EC%94%80%5D%20%EB%82%B4%20%EC%8B%A0%EC%95%99%EC%97%90%20%EA%B8%B0%EA%B7%BC%EC%9D%B4%20%EC%B0%BE%EC%95%84%EC%98%AC%20%EB%95%8C_%EB%A9%94%EB%AA%A8%EC%9A%A9.md) |
